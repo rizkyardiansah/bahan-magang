@@ -1,2 +1,2 @@
-# wpu-bahan-magang
+# bahan-magang
 Repository untuk menyimpan bahan belajar untuk persiapan magang
